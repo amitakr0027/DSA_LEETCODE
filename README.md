@@ -47,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
