@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -12,16 +13,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -34,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -57,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/1757-recyclable-and-low-fat-products) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
