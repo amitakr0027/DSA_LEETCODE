@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
@@ -15,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -66,4 +70,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
