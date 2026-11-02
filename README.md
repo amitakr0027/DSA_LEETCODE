@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
