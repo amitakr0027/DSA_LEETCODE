@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
+| [1901-find-a-peak-element-ii](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/1901-find-a-peak-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/1901-find-a-peak-element-ii) |
 ## Database
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
+| [1901-find-a-peak-element-ii](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/1901-find-a-peak-element-ii) |
 ## Quicksort
 |  |
 | ------- |
