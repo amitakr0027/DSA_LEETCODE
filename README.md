@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [1901-find-a-peak-element-ii](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/1901-find-a-peak-element-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
