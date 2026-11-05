@@ -1,19 +1,13 @@
 class Solution {
     public boolean isPalindrome(int x) {
         if(x<0) return false;
-        List<Integer> list=new ArrayList<>();
+        int ans=0;
+        int org=x;
         while(x>0){
-            list.add(x%10);
-            x/=10;
+            int num=x%10;
+            ans=10*ans+num;
+            x=x/10;
         }
-        int i=0,j=list.size()-1;
-        while(i<j){
-        if(list.get(i)!=list.get(j)) return false;
-        else{
-            i++;
-            j--;
-        }
-        }  
-        return true;
+        return org==ans;
     }
 }
