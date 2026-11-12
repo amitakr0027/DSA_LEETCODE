@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0844-backspace-string-compare](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -132,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/amitakr0027/DSA_LEETCODE/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
